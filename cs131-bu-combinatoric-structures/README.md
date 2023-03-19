@@ -1,0 +1,4 @@
+# CAS CS 131 Combinatoric Structures 
+
+Representation, analysis, techniques, and principles for manipulation of basic combinatoric data structures used in computer science. Rigorous reasoning is emphasized. (Counts as a Background Course for the CS concentration.)
+What this means in reality: we will train you in the mathematical foundations of CS so that you can make convincing logical arguments (proofs) that programs you write and algorithms you design are correct and run efficiently. The term "combinatorics" is centered on combinations of objects belonging to a finite set -- we will see applications in counting and probability theory. For example, we will teach you things like how to compute the probability of randomly guessing an alphanumeric password, or (similarly) how many Bitcoins you can expect to mine with a given amount of computation. 
