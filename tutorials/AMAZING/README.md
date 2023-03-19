@@ -14,4 +14,4 @@ The tutorial presents both classic and cutting-edge research topics on networks.
 ## Prerequisites
 Computer science background (B.Sc or equivalent); familiarity with undergraduate level concepts covered in probability and algorithm classes.
 
-## [https://www.math.cmu.edu/~ctsourak/amazing.html](Tutorial web page)
+## [Tutorial web page](https://www.math.cmu.edu/~ctsourak/amazing.html)
