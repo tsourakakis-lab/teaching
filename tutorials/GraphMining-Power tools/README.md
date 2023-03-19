@@ -1,6 +1,11 @@
-# 
+# KDD 2009 : Large Graph-Mining: Power Tools and a Practitioner's Guide 
+ 
+## Description 
 
+How to find patterns in large graphs, spanning Giga and Tera bytes? What are the best tools from matrix algebra, and how can they help us solve graph mining problems? These are exactly the goals of this tutorial. Matrix algebra and graph theory can offer powerful tools and theorems, like SVD, spectral analysis, community detection, and more; we single out the most useful tools, we show the intuition behind them, and we give one or more practical settings that each tool performed well. We also cover the emerging map/reduce architecture, and its impact on large graph mining.
 
+## Target Audience
+The target audience are data mining and machine learning professionals who wish to know the most important matrix algebra tools and their applications in large graph mining. Computer science background (B.Sc or equivalent); familiarity with undergraduate linear algebra.
 
 
 ### Instructors 
